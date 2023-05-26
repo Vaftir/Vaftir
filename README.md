@@ -21,7 +21,7 @@
   <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><br/>
   </div> <br/>
   
- Gamer de coração apaixonado por tecnologia, programação e de novos desafios.
+ Gamer de coração apaixonado por tecnologia, programação e desafios.
   
  ### Contato:
  
