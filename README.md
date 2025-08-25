@@ -3,24 +3,18 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-faria/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaftir)
 
-### Current Focus
-- Learning new frameworks
-- Building full-stack applications
-
-🎮 **Gamer turned developer** • 💻 **Tech enthusiast** • 🚀 **Challenge solver**
-
 ---
 
-
-
-### GitHub Stats
+### 📊 GitHub Stats
 <div align="left">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaftir&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-### Technologies & Tools
+---
+
+### 🛠️ Technologies & Tools
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -29,8 +23,14 @@
   <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="LangChain" height="35" width="45" src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo-light.svg">
+  <img align="center" alt="LangChain" height="35" width="45" src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo-dark.svg">
 </div>
+
+---
+
+### 🎮 Current Focus
+- Learning new frameworks
+- Building full-stack applications
 
 ---
 
