@@ -5,7 +5,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <div align="left">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaftir&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -28,16 +28,16 @@
 
 ---
 
-### 🎮 Current Focus
+### Current Focus
 - Learning new frameworks
 - Building full-stack applications
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
-📧 **Email:** yagoassisfaria@gmail.com  
-💼 **LinkedIn:** [Yago Faria](https://www.linkedin.com/in/yago-faria/)
+ **Email:** yagoassisfaria@gmail.com  
+ **LinkedIn:** [Yago Faria](https://www.linkedin.com/in/yago-faria/)
 
 ---
 
