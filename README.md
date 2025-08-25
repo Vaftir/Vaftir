@@ -29,7 +29,7 @@
   <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="LangChain" height="35" width="45" src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo-dark.svg">
+  <img align="center" alt="LangChain" height="35" width="45" src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo-light.svg">
 </div>
 
 ---
