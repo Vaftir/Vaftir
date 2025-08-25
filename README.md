@@ -27,7 +27,6 @@
  ### Contato:
  
  - yagoassisfaria@gmail.com<br/>
- - [Whatsapp](https://wa.me/3183813443)
  
   
   
